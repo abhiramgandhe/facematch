@@ -106,5 +106,3 @@ distance = 1.1594397
 Result = not the same person
 Summary
 We can see that Facenet is doing good to correctly generate embedding of a face in such a way that by calculating Euclidean distance between embedding of two faces gives the correct result. We need to correctly set up the threshold according to our need. Higher the threshold more risk of getting the false result. In above demo the distance threshold 1.10 to make a decision for face matching.
-
-You might also want to check out another article that we have, How to make your own face recognition app using OpenCV library, here.
